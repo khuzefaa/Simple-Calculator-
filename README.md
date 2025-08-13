@@ -1,2 +1,7 @@
 # Simple-Calculator-
 This is a simple, interactive calculator designed specifically for Google Colab environments. The calculator provides a user-friendly command-line interface that allows users to perform basic arithmetic operations including addition, subtraction, multiplication, division, and exponentiation.
+I've created a complete basic calculator for Google Colab with the following components:
+Calculator Code Features:Single cell implementation - Perfect for Google ColabInteractive menu system with 6 options (5 operations + exit)Comprehensive error handling for invalid inputs and division by zeroUser-friendly interface with emojis and clear formatting
+Continuous operation - allows multiple calculationsSupports 5 operations: Addition, Subtraction, Multiplication, Division, and Exponentiation
+How to Use:Copy the Python code into a single Google Colab cellRun the cell (Shift + Enter)Follow the interactive prompts:Choose an operation (1-6)Enter two numbersView the resultChoose to continue or exit 
+Documentation Included:Detailed description of features and functionalityComplete README with usage examples, troubleshooting, and customization optionsError handling documentationInstallation and usage instructionsThe calculator handles edge cases like division by zero, invalid inputs, and provides a smooth user experience with clear feedback and professional formatting. It's perfect for educational purposes and demonstrates good programming practices in Python!
